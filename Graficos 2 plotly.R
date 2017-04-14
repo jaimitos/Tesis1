@@ -48,4 +48,4 @@ p2 <- plot_ly(data = datag.2) %>%
 
 p <- subplot(p1,p2, nrows = 2)
 
-print(p1)
+print(p)
